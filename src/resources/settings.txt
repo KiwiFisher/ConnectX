@@ -1,0 +1,5 @@
+#in-a-row-to-win: 4;
+#board-width: 8;
+#board-height: 5;
+#allow-diagonal-win: true;
+#lang-filename: EN.txt;

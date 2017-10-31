@@ -1,0 +1,13 @@
+//The '?' character will be replaced with the appropriate values for the message drawn from unique game states and user inputs such as names and columns choices.
+//A # shows the setting id and the value between the colon and semi colon will be read as the corresponding setting.
+
+#prompt-number-of-players: How many players are there?;
+#prompt-username: Please enter the name of player ?;
+#prompt-coin-column: ?, please choose a column to drop your coin in:~;
+#invalid-column-choice: "?" is not a valid column, please try again;
+#win-message: Congrats, ?! You have won the game!;
+#draw-message: The board is full! It's a draw this time;
+#prompt-next-game: Would you like to play again? (y/n);
+#invalid-input: That is not a valid option;
+#goodbye-message: Thanks for playing!;
+#start-message: Welcome to game.ConnectX! Type "exit" and any time during the game to quit.;
